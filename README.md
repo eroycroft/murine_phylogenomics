@@ -5,6 +5,6 @@ This repository accompanies the manuscript: <br>"Phylogenomics Uncovers Confiden
 <br>
 1) Exon capture target sequences 
 
-2) <i>de novo</i> assemblies of target sequences for each sample
+2) <i>De novo</i> assemblies of target sequences for each sample
 
 3) Alignments used in analyses
