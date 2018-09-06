@@ -1,4 +1,4 @@
-# Phylogenomics uncovers confidence and conflict in the recent, rapid radiation of rodents of Sahul
+# Phylogenomics Uncovers Confidence and Conflict in the Rapid Radiation of Australo-Papuan Rodents
 
 This repository accompanies the manuscript: <br>"Phylogenomics Uncovers Confidence and Conflict in the Rapid Radiation of Australo-Papuan Rodents".
 <br><br><i>Emily J. Roycroft<sup>1,2</sup>, Adnan Moussalli<sup>1,2</sup>, Kevin C. Rowe<sup>1,2</sup></i><br>
